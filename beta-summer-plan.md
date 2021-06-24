@@ -21,5 +21,5 @@ Here is the general outline of what we would do during each project development:
 |----|--------|--------|
 |1|brainstorming key concepts| outlining a lesson plan|
 |2|coding|debugging|
-|3|coding|real-world testing|
+|3|coding|debugging / real-world testing|
 |4|revision|real-world testing|
