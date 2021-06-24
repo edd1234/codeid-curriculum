@@ -1,6 +1,6 @@
 # Summer Master Plan
 We have 
 
-|Name|Email|Address|      <====== This is the heading of the table
-|----|-----|-------|      <====== This is the separator.
+|Name|Email|Address|     
+|----|-----|-------|      
 |John|john@example.com|Address1|
