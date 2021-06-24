@@ -40,3 +40,4 @@ Note: The above list is subject to change.
 ---
 
 ### Final Thoughts
+As I said earlier, I really do think we can achieve a lot this summer if we work hard and stay determined. That being said, I don't really want anyone to stress out too much over this. Communication is key. Feel free to reach out if you are struggling/need help with a certain part of the project or need to decompress.
