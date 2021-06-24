@@ -12,4 +12,4 @@ Alternative Deadlines:
 * Project 1: August 5
 * Project 2: September 21
 
-These two schedules would depend on the scope of the projects that we choose (e.g. two large projects or three smaller projects). In the event that we're behind in development, the alternative schedule is designed to provide more flexibility.
+NOTE: These two schedules would depend on the scope of the projects that we choose (e.g. two large projects or three smaller projects). In the event that we're behind in development, the alternative schedule is designed to provide more flexibility.
