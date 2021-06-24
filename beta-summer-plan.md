@@ -26,3 +26,15 @@ Here is the general outline of what we would do during each project development:
 |4|revision|real-world testing|
 
 In reality, the revision and real-world testing phase might be the most time-consuming part of each project. Also, creating a strong outline and delegating responsibilities efficiently will be crucial to our success. It is important to note that these are suggestions rather than hard deadlines.
+
+---
+Here are the list of potential projects:
+* Geometry Art
+* Tic-Tac-Toe
+* Hangman Game
+* Encryption Challenge (e.g. substitution cipher, Caesar cipher)
+* Breakout Game
+
+Note: The above list is subject to change.
+
+---
