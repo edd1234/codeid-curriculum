@@ -14,7 +14,7 @@ Our goal for this summer is to create and code _**2-3 projects**_ that we can re
 
 
 NOTE: These two schedules would depend on the scope of the projects that we choose (e.g. two large projects or three smaller projects). In the event that we're behind in development, the alternative schedule is designed to provide more flexibility.
-
+---
 
 Here is the general outline of what we would do during each project development:
 |Week|Action 1|Action 2|
