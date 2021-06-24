@@ -38,3 +38,5 @@ Here are the list of potential projects:
 Note: The above list is subject to change.
 
 ---
+
+### Final Thoughts
