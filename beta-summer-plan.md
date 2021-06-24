@@ -3,12 +3,12 @@ We have around ***12 weeks*** of summer time to work on curriculum development! 
 
 Our goal for this summer is to create and code _**2-3 projects**_ that we can release in the fall. 
 
-Tentative Primary Deadlines:
+####Tentative Primary Deadlines:
 * Project 1: July 21
 * Project 2: August 21
 * Project 3: September 21
 
-Alternative Deadlines:
+####Alternative Deadlines:
 * Project 1: August 5
 * Project 2: September 21
 
