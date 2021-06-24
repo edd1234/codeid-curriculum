@@ -20,7 +20,9 @@ NOTE: These two schedules would depend on the scope of the projects that we choo
 Here is the general outline of what we would do during each project development:
 |Week|Action 1|Action 2|
 |----|--------|--------|
-|1|brainstorming key concepts| outlining a lesson plan|
+|1|brainstorming key concepts|outlining a lesson plan|
 |2|coding|debugging|
 |3|coding|debugging / real-world testing|
 |4|revision|real-world testing|
+
+In reality, the revision and real-world testing phase might be the most time-consuming part of each project. Also, creating a strong outline and delegating responsibilities efficiently will be crucial to our success. It is important to note that these are suggestions rather than hard deadlines.
