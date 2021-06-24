@@ -12,6 +12,7 @@ Alternative Deadlines:
 * Project 1: August 5
 * Project 2: September 21
 
+
 NOTE: These two schedules would depend on the scope of the projects that we choose (e.g. two large projects or three smaller projects). In the event that we're behind in development, the alternative schedule is designed to provide more flexibility.
 
 
@@ -21,4 +22,4 @@ Here is the general outline of what we would do during each project development:
 |1|brainstorming key concepts| outlining a lesson plan|
 |2|coding|debugging|
 |3|coding|real-world testing|
-|4|revision|testing|
+|4|revision|real-world testing|
