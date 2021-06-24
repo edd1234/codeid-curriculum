@@ -18,6 +18,7 @@ NOTE: These two schedules would depend on the scope of the projects that we choo
 Here is the general outline of what we would do during each project development:
 |Week|Action 1|Action 2|
 |----|--------|--------|
-|1|organizing the curriculum structure|
-|2|coding|testing|
-
+|1|brainstorming key concepts| outlining a lesson plan|
+|2|coding|debugging|
+|3|coding|real-world testing|
+|4|revision|testing|
